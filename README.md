@@ -1,8 +1,8 @@
 ### Hi There! 👋🏿
-- 👨🏾  My name is Isaac Attuah
-- 🚌  I'm currently majoring in Computer Science and minoring in Mathematics at the Univeristy of Miami.
-- 🌱  Learning FLutter and R
-- 🤝  Looking to collaborate on educational and sustainability-based projects.
+- 👨🏾   My name is Isaac Attuah
+- 🚌   I'm currently majoring in Computer Science and minoring in Mathematics at the Univeristy of Miami.
+- 🌱   Learning Flutter and R
+- 🤝   Looking to collaborate on educational and sustainability-based projects.
 
 ### How To Reach Me
 💬 Ask me about anything tech-related via [Quora](https://www.quora.com/profile/Isaac-Attuah-1) \
