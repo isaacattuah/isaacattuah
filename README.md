@@ -5,8 +5,8 @@
 - 🤝 Looking to collaborate on educational and sustainability-based projects.
 
 ### How To Reach Me
-💬 Ask me about anything tech-related via [Quora](https://www.quora.com/profile/Isaac-Attuah-1)
-🌍 Website: [isaacattuah.com](https://isaacattuah.com/)
+💬 Ask me about anything tech-related via [Quora](https://www.quora.com/profile/Isaac-Attuah-1) \
+🌍 Website: [isaacattuah.com](https://isaacattuah.com/) \
 📫 E-mail: [isaacattuah@gmail.com](mailto:isaacattuah@gmail.com)
 
 <!--
