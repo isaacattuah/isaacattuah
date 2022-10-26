@@ -1,7 +1,7 @@
 ### Hi There! 👋🏿
 - 👨🏾   My name is Isaac Attuah.
-- 🚌   I'm currently majoring in Computer Science and minoring in Mathematics at the University of Miami.
-- 🌱   Learning Flutter, R and C#.
+- 🚌   I'm currently working as a Cloud Technical Resident in Google Cloud
+- 🌱   Learning Terraform, Ruby and JS.
 - 🤝   Looking to collaborate on educational and sustainability-based projects.
 
 ### How To Reach Me
@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything tech-related
 - 📫 How to reach me: isaacattuah@gmail.com
 - ⚡ Fun fact: I'm from Accra, Ghana 🇬🇭 
+- 🌱   Learning Flutter, R and C#.
 -->
