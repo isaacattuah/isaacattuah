@@ -1,7 +1,7 @@
 ### Hi There! 👋🏿
 - 👨🏾   My name is Isaac Attuah.
-- 🚌   I'm currently working as a Cloud Technical Resident in Google Cloud
-- 🌱   Learning Terraform, Ruby and JS.
+- 🚌   I'm currently working as an AI/ML focused Scaled Customer Engineer in Google Cloud.
+- 🌱   Learning Generative AI techniques and data engineering best practices.
 - 🤝   Looking to collaborate on educational and sustainability-based projects.
 
 ### How To Reach Me
